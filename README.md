@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MLMP03
 - 👀 I’m interested in learning how to code and developing skills that will help me throughout my life.
-- 🌱 I’m currently learning C, Python and how to survive.
+- 🌱 I’m currently learning C and Python.
 - 💞️ I’m looking to collaborate on projects that enhance quality of life :).
 - 📫 How to reach me: marialuispinto@icloud.com
 
